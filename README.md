@@ -1,1 +1,2 @@
 # Nucleus-Analysis-Guilluy-Lab
+This project involves a comprehensive analysis of a dataset containing nuclei observations over multiple frames. The primary goal is to calculate and understand spatial and temporal dynamics of each nucleus, capturing critical metrics that provide insights into their behavior over time. This analysis is structured to be extendable for additional metrics and deeper insights in the future.
